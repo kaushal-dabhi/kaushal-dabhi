@@ -1,1 +1,25 @@
-# kaushal-dabhi
+## About Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaushal-dabhi/)](https://www.linkedin.com/in/kaushal-dabhi/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fjaehyeon.me)](https://kaushaldabhi.com)
+
+⚙️ I work as a data scientist in CTO & IT Architecture department at Santander Bank.I did my M.S in AI & Big Data from Berlin University of Applied Sciences.  
+
+📝 I enjoy writing posts on *Data Engineering*, *Data Streaming*, *Analytics*, *ReaMachine Learning*, and *Architecture*. See my posts on https://kaushaldabhi.com/. 
+
+👯 I am a senior member at XDA Developers Forum.I also contribute to open source projects.  
+
+<!--
+**jaehyeon-kim/jaehyeon-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
